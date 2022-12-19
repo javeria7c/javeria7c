@@ -6,6 +6,6 @@
 
 💞️ I’m looking to collaborate as a junior JavaScript developer.
 
-📫 How to reach me email: javeria.7c@gmail.com / contact Number: 03251675170 (Also on whatsapp)
+📫 How to reach me email: javeria.7c@gmail.com / contact Number: 03251675170 (Also on WhatsApp)
 
 💼 linkedin Profile: https://www.linkedin.com/in/javeria7c
