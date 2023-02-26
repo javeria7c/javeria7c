@@ -6,6 +6,6 @@
 
 💞️ I’m looking to collaborate as a junior React.js developer.
 
-📫 How to reach me email: javeria.7c@gmail.com / contact Number: 03251675170 (Work)
+📫 How to reach me email: javeria.7c@gmail.com
 
 💼 linkedin Profile: https://www.linkedin.com/in/javeria7c
