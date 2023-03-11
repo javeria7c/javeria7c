@@ -1,6 +1,6 @@
 👋 Hi, I’m @javeria-pk (Javeria Tahir).
 
-👀 I’m interested in React.js (front-end-web-development).
+👀 I’m interested in React.js Advanced (front-end-web-development).
 
 🌱 I’m currently advancing my skills in React.js
 
